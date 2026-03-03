@@ -1,16 +1,16 @@
-//Hello world in c++
+// //Hello world in c++
 
-//#include<iostream>
-//using namespace std;
-//int main()
-//{
+// #include<iostream>
+// using namespace std;
+// int main()
+// {
 //  int a=10;
-//   float b=34.6;
-//    char c='L';
-//print("the value of the a=%d the value of b=%f the value of the c=%d",a,b,c);
-//   std::cout<<"the value of a="<<a<<std::endl<<"the value of b="<<b<<std::endl<<"the value of c="<<c;
+//  float b=34.6;
+//  char c='L';
+//  printf("the value of the a=%d the value of b=%f the value of the c=%d",a,b,c);
+//  std::cout<<"the value of a="<<a<<std::endl<<"the value of b="<<b<<std::endl<<"the value of c="<<c;
 //  return 0;
-//}
+// }
 
 
 
