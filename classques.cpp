@@ -1,5 +1,4 @@
 //Hello world in c++
-
 #include<iostream>
 using namespace std;
 int main()
@@ -14,9 +13,7 @@ int main()
 
 
 
-#include<iostream>
-using namespace std;
-int main()
+
 {   
     //getline(std::cin,name);     for a whole statement 
     int n;
